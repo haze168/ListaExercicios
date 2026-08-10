@@ -6,5 +6,6 @@ namespace ExerciciosSimples
 {
     internal class Retangulo
     {
+        // test
     }
 }
